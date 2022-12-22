@@ -26,7 +26,7 @@
             "link": "mailto:mnoorzai@fordham.edu"
         }
     ],
-    "projects": [
+    "Photos": [
         {
             "id": "1",
             "title": "Project One Test",
@@ -38,7 +38,7 @@
             "id": "2",
             "title": "Project Two",
             "description": "Web Development",
-            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "imageSrc": "file:///Users/madina/Desktop/IMG_6707.jpeg",
             "url": "http://chetanverma.com/"
         },
         {
@@ -70,7 +70,7 @@
             "url": "http://chetanverma.com/"
         }
     ],
-    "services": [
+    "About Me": [
         {
             "id": "1",
             "title": "Art Direction",
@@ -94,45 +94,52 @@
     ],
     "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     "resume": {
-        "tagline": "👋  I'm a software engineer, product designer.",
-        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "tagline": "I'm a student and barista.",
+        "description": "Proactive college student with 4+ years of work experience in the finance and food service industries and a proven knowledge of the loan processing, data entry, and conflict resolution. Aiming to leverage my abilities to successfully acquire an internship with career growth opportunities. Frequently praised as quality-oriented by my peers, I can be relied upon to help your company achieve its goals.",
         "experiences": [
             {
                 "id": "1",
-                "dates": "March 2022 - Present",
-                "type": "Full Time",
-                "position": "Frontend Engineer at X",
-                "bullets": "Bullet One, Bullet Two"
+                "dates": "July 2021 - Present",
+                "type": "Part Time",
+                "position": "Barista at Starbucks",
+                "bullets": "Certified barista serving full coffee and food menu including espresso and novelty coffee beverages, Deliver excellent customer service in a fast paced and challenging environment"
             },
             {
                 "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-                "dates": "July 2020 - March 2022",
-                "type": "Full Time",
-                "position": "Frontend Engineer at X",
-                "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+                "dates": "November 2019 - October 2020",
+                "type": "Part Time",
+                "position": "Production Assistant at Freedom Mortgage",
+                "bullets": "Prepared loan origination documents, Ordered services and submitted application files to processing, Helped loan officer achieve a volume of over $2 million in loans closed each month for 6+ months"
+            },
+            {
+                "id": "3",
+                "dates": "July 2019 - October 2019",
+                "type": "Part Time",
+                "position": "Loan Officer Assistant at JG Wentworth Home Lending",
+                "bullets": "Assisted loan officers with preparation and distribution of marketing materials, Prepared legally compliant disclosure documents"
             }
         ],
         "education": {
-            "universityName": "University X",
-            "universityDate": "2016-2020",
-            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+            "universityName": "Fordham University",
+            "universityDate": "2021-2025",
+            "universityPara": "I am a second-year undergraduate student at Fordham University pursuing a degree in Information Science and I have a GPA of 3.47. I am the treasurer of the Muslim Student Assocation. Courses I have taken include: Intermediate Arabic, Discrete Structures, Trends in Latin American Film, Linear Algebra, and Introduction to Communications."
         },
         "languages": [
-            "Javascript",
-            "HTML5",
-            "CSS",
-            "Python",
-            "Go"
+            "Spanish",
+            "Farsi",
+            "Hindi",
+            "Urdu",
+            "Arabic"
         ],
-        "frameworks": [
-            "React",
-            "Typescript",
-            "NodeJs"
+        "computer skills": [
+            "Javascript",
+            "Microsoft Word and Excel",
+            ""
         ],
         "others": [
-            "Figma",
-            "AdobeXD",
-            "AWS"
+            "Prioritizing tasks to create an efficient schedule",
+            "Effective communication",
+            "Organizational know-how"
         ]
     }
 }
